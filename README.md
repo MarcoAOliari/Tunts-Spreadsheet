@@ -12,6 +12,7 @@ Também é fundamental que se acrescente à pasta raiz do projeto um arquivo `cr
 
 ```
   $ git clone https://github.com/MarcoAOliari/Tunts-Spreadsheet.git
+  $ cd Tunts-Spreadsheet
   $ npm install
   $ npm start
 ```
