@@ -53,6 +53,7 @@ app.get("/", async (req, res) => {
     })
 
     console.log("Planilha preenchida com sucesso!")
+    res.sendStatus(200)
 })
 
 // App listens to 1337 port
