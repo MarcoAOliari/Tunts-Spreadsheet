@@ -64,4 +64,4 @@ app.get("/", async (req, res) => {
 })
 
 // App listens to 1337 port
-app.listen(1337, (req, res) => {})
+app.listen(1337, (req, res) => { console.log("Listening to port 1337") })
