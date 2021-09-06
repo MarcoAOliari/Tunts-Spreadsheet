@@ -4,7 +4,7 @@ Desafio proposto pela Tunts desenvolvido em Node.js, que consiste na leitura de 
 
 ## Requisitos
 
-Para executar a aplicação é necessário Git e Node.js instalados em seu ambiente.
+Para executar a aplicação é necessário Git e Node.js (versão 12 ou 14) instalados em seu ambiente.
 
 Também é fundamental que se acrescente à pasta raiz do projeto um arquivo `credentials.json`, contendo as informações de autenticação da API da Google Cloud. O arquivo utilizado em desenvolvimento não está presente por questões de segurança.
 
